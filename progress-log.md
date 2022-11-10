@@ -1,3 +1,5 @@
++ 2022-11-10 11:36:42 [Ads: allow queries across chains / flyers by category, keyword search, etc #6](https://github.com/access-news/_/issues/6)
+
 + 2022-11-10 11:15:58 [Form a strategy to streamline ad automation from "ad providers"#2](https://github.com/access-news/TTS-read-ads/issues/2)
 
 + 2022-11-10 10:23:31 [Website: accessnews.org #5](https://github.com/access-news/_/issues/5)
