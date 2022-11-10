@@ -4,9 +4,9 @@ To sum it up front given our current circumstances:
 
 1. System maintenance
 
-2. Spend more time and energy on volunteers who are willing to read the ads.
+2. Spend more time and energy on volunteers who read the ads.
 
-3. TR2 and an content-reading automation
+3. TR2 and content-reading automation
 
 4. Other volunteer communications
 
