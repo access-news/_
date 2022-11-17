@@ -1,3 +1,5 @@
+Stopping this experiment; see [How to create weekly reports of GitHub activities?#10](https://github.com/access-news/_/issues/10).
+
 + **`2022-11-16 10:22`** Add IPFS write-up to [issue #4: Research content storage options](https://github.com/access-news/_/issues/4)
 
 + **`2022-11-14 08:55`** Create [repo for the main Access News site (accessnews.org)](https://github.com/access-news/accessnews.org)
