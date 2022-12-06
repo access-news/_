@@ -5,7 +5,7 @@
 
 ## Context
 
-The [Access News forum]((https://forum.accessnews.org) has all the volunteer guides and instructions, but it is not utilized by volunteers at all, so it is simply using precious resources in vain. Hence, it will be decommissioned, and we'll start working on [accessnews.org](https://accessnews.org), the main site for Access News volunteers and subscribers, which will be the new home for the aforementioned documents.
+The [Access News forum](https://forum.accessnews.org) has all the volunteer guides and instructions, but it is not utilized by volunteers at all, so it is simply using precious resources in vain. Hence, it will be decommissioned, and we'll start working on [accessnews.org](https://accessnews.org), the main site for Access News volunteers and subscribers, which will be the new home for the aforementioned documents.
 
 Freeing up resources is important to save on costs, but the lack of time is always a limiting factor, and the new site should be brought up as quickly as possible.
 
