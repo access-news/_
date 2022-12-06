@@ -30,5 +30,7 @@ Cons:
 
 + Extra time to learn Jekyll.
 
++ The repository has to be named [`access-news.github.io`](https://github.com/access-news/access-news.github.io) instead of `accessnews.org`, because of the GitHub Pages conventions (see [this section](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#types-of-github-pages-sites)).
+
 
 vim: set tabstop=2 shiftwidth=2 expandtab:
