@@ -3,6 +3,10 @@
     date:   2022-12-03 10:12
     status: accepted
 
+    date:   2022-12-07 11:20
+    status: implemented
+    note: https://github.com/access-news/access-news.github.io/commit/b14b1528d6b6afeded7f2afd32ba82d198d999c7
+
 ## Context
 
 The [Access News forum](https://forum.accessnews.org) has all the volunteer guides and instructions, but it is not utilized by volunteers at all, so it is simply using precious resources in vain. Hence, it will be decommissioned, and we'll start working on [accessnews.org](https://accessnews.org), the main site for Access News volunteers and subscribers, which will be the new home for the aforementioned documents.

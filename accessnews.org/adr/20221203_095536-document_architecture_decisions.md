@@ -3,6 +3,10 @@
     date:   2022-12-03 09:55
     status: accepted
 
+    date:   2022-12-06 11:04
+    status: implemented
+    note: https://github.com/access-news/_/commit/667d3098cac55dc1340c79701cd4fe707bd986d3
+
 ## Context
 
 The problem is well explained in the documents linked in the decision.
